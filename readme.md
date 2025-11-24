@@ -1,6 +1,5 @@
 # Oil Spill Classification
 
-**Author:** Ipek Koçışarli  
 **Task:** Binary classification to detect oil spill presence from tabular data  
 
 ---
